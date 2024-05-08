@@ -23,8 +23,8 @@
 **Full Stack projects**
 
 
-<a href="https://github.com/bobur22/Project2">
-   <img width="90px" height="40px" src="https://static.wixstatic.com/media/43b56f_a89739d886ea47e0a6117487e13f809b~mv2_d_2387_1284_s_2.png" />
+<a href="https://github.com/sbkhnv/vegetables-website.git">
+   <img width="90px" height="40px" src="https://i0.wp.com/htmlcodex.com/wp-content/uploads/2023/09/vegetable-website-template.jpg?fit=740%2C463&ssl=1" />
 </a>
 <a href="https://github.com/bobur22/Kandy-pre-school">
    <img width="90px" height="40px" src="https://github.com/bobur22/Kandy-pre-school/blob/master/assets/main/img/For_Web_3/svg/Color%20logo%20-%20no%20background.svg" />
