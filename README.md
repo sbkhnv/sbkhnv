@@ -24,13 +24,13 @@
 
 
 <a href="https://github.com/sbkhnv/vegetables-website.git">
-   <img width="90px" height="40px" src="https://i0.wp.com/htmlcodex.com/wp-content/uploads/2023/09/vegetable-website-template.jpg?fit=740%2C463&ssl=1" />
+   <img width="90px" height="40px" src="https://cdn.cssauthor.com/wp-content/uploads/2023/06/Sunshine.jpg?strip=all&lossy=1&ssl=1" />
 </a>
-<a href="https://github.com/bobur22/Kandy-pre-school">
-   <img width="90px" height="40px" src="https://github.com/bobur22/Kandy-pre-school/blob/master/assets/main/img/For_Web_3/svg/Color%20logo%20-%20no%20background.svg" />
+<a href="https://github.com/sbkhnv/telegram-bot.git">
+   <img width="90px" height="40px" src="https://images.indianexpress.com/2022/11/Telegram-bots-2-1.jpg" />
 </a>    
-<a href="https://github.com/bobur22/E-commerece">
-   <img width="90px" height="40px" src="https://github.com/bobur22/E-commerece/blob/master/assets/main/img/logo.png" />
+<a href="https://github.com/sbkhnv/ATM-.git">
+   <img width="90px" height="40px" src="https://www.idfcfirstbank.com/content/dam/idfcfirstbank/images/blog/finance/what-is-atm-717x404.jpg" />
 </a>    
 
 <br/>
