@@ -12,6 +12,14 @@
 - Contributing to open source on <a href="https://github.com/sbkhnv"> Github</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/sbkhnv/">LinkedIn</a> 💼
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sbkhnv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sbkhnv" height="30" width="40" /></a>
+<a href="https://instagram.com/subkhanov77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subkhanov77" height="30" width="40" /></a>
+<a href="https://t.me/subkhanov77" target="blank"><img align="center" src="https://download.logo.wine/logo/Telegram_(software)/Telegram_(software)-Logo.wine.png" alt="subkhanov77" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/mmmdg4530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mmmdg4530" height="30" width="40" /></a>
+</p> -->
+
 **Languages I have learned**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
