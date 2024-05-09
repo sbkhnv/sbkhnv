@@ -1,4 +1,6 @@
 <h1 align="center">Ruslan Subkhanov</h1>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47hdf3hkvf3gatdcy7aw0666lebu8umzm7fg6jljgo&rid=giphy.gif&ct=g">
+
 ### About Me:
 
 -i am eager to leverage my skills and collaborate within a dynamic team environment to contribute to real-world projects.
