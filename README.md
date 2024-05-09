@@ -1,3 +1,14 @@
+<h1 align="center">Ruslan Subkhanov</h1>
+### About Me:
+
+-i am eager to leverage my skills and collaborate within a dynamic team environment to contribute to real-world projects.
+-With a keen interest to Backend, I aim to enhance my expertise and advance my career trajectory.
+-My goal is to actively engage in challenging projects, acquire new skills, and make meaningful contributions to the team's success, ultimately fostering personal and professional growth
+
+### Find Me:
+- Contributing to open source on <a href="https://github.com/sbkhnv"> Github</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/sbkhnv/">LinkedIn</a> 💼
+
 **Languages I have learned**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
