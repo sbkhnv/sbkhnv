@@ -20,10 +20,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-**Full Stack projects**
+**Projects that i made**
 
 
-<a href="https://github.com/sbkhnv/vegetables-website.git">
+<a href="https://github.com/sbkhnv/vegetables-website">
    <img width="90px" height="40px" src="https://cdn.cssauthor.com/wp-content/uploads/2023/06/Sunshine.jpg?strip=all&lossy=1&ssl=1" />
 </a>
 <a href="https://github.com/sbkhnv/telegram-bot.git">
