@@ -15,9 +15,7 @@
 <a href="https://t.me/subkhanov77" target="blank"><img align="center" src="https://download.logo.wine/logo/Telegram_(software)/Telegram_(software)-Logo.wine.png" alt="subkhanov77" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/mmmdg4530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mmmdg4530" height="30" width="40" /></a>
 </p> -->
-<br>
 <h3> 🛠️ Tech Stack </h3>
-<br>
    <p align="center" style="cursor: pointer;">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -35,10 +33,8 @@
 <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
-<br>
-<h3>  Projects  </h3>
-<br>
 
+<h3> 🙋‍♀️ Projects  </h3>
 <a href="https://github.com/sbkhnv/vegetables-website">
    <img width="90px" height="40px" src="https://cdn.cssauthor.com/wp-content/uploads/2023/06/Sunshine.jpg?strip=all&lossy=1&ssl=1" />
 </a>
